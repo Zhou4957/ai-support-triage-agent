@@ -1,0 +1,482 @@
+[
+  {
+    "id": "T-001",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "high",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-002",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "high",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-003",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 0.4,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-004",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-005",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "urgent",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-006",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 0.6,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-007",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-008",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 0.625,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-009",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-010",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "high",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-011",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "high",
+    "true_priority": "medium",
+    "confidence": 0.417,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-012",
+    "predicted_category": "billing",
+    "true_category": "billing",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-013",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "high",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-014",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-015",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-016",
+    "predicted_category": "account",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "high",
+    "confidence": 0.25,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-017",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "urgent",
+    "true_priority": "urgent",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-018",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-019",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "high",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-020",
+    "predicted_category": "billing",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 0.5,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for reaching out about billing. I've pulled up your account and will review the charge/invoice in question. I'll follow up within one business day with the correction or refund confirmation."
+  },
+  {
+    "id": "T-021",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-022",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-023",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "low",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-024",
+    "predicted_category": "technical",
+    "true_category": "technical",
+    "predicted_priority": "urgent",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-025",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-026",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 0.333,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-027",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-028",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "urgent",
+    "true_priority": "urgent",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-029",
+    "predicted_category": "billing",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 0.0,
+    "escalated": true,
+    "draft_reply": "Hi there, This ticket was escalated to a human agent because the automatic classification confidence was too low."
+  },
+  {
+    "id": "T-030",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 0.5,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-031",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-032",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-033",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away."
+  },
+  {
+    "id": "T-034",
+    "predicted_category": "technical",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 0.2,
+    "escalated": true,
+    "draft_reply": "Hi there, This ticket was escalated to a human agent because the automatic classification confidence was too low."
+  },
+  {
+    "id": "T-035",
+    "predicted_category": "account",
+    "true_category": "account",
+    "predicted_priority": "high",
+    "true_priority": "low",
+    "confidence": 0.333,
+    "escalated": false,
+    "draft_reply": "Hi there, I can help with your account request. For security, I'll need to verify your identity first \u2014 please reply from your registered email or complete the verification step in your account settings, and I'll proceed right away. I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-036",
+    "predicted_category": "technical",
+    "true_category": "account",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 0.4,
+    "escalated": false,
+    "draft_reply": "Hi there, Sorry you're hitting this issue. I've logged it for our engineering team with the details you provided. As a first step, could you confirm your app/browser version? I'll update you as soon as there's a fix or workaround."
+  },
+  {
+    "id": "T-037",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-038",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "high",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery). I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-039",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-040",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-041",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "high",
+    "true_priority": "high",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery). I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-042",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-043",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-044",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "low",
+    "true_priority": "low",
+    "confidence": 0.5,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-045",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-046",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  },
+  {
+    "id": "T-047",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "high",
+    "true_priority": "medium",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery). I've marked this as high priority on our side."
+  },
+  {
+    "id": "T-048",
+    "predicted_category": "shipping",
+    "true_category": "shipping",
+    "predicted_priority": "medium",
+    "true_priority": "low",
+    "confidence": 1.0,
+    "escalated": false,
+    "draft_reply": "Hi there, Thanks for the details. I'm checking your shipment status now and will get back to you with tracking updates and the next steps (replacement, return label, or redelivery)."
+  }
+]
